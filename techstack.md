@@ -3,10 +3,10 @@
 ## Tech Stack
 prettyleka/stringtemplate4 is built on the following main stack:
 
-- [Python](https://www.python.org) – Languages
 - [Java](https://www.java.com) – Languages
-- [JUnit](http://junit.org/) – Testing Frameworks
+- [Python](https://www.python.org) – Languages
 - [Smalltalk](http://en.wikipedia.org/wiki/Smalltalk) – Languages
+- [JUnit](http://junit.org/) – Testing Frameworks
 - [Travis CI](http://travis-ci.com/) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
@@ -17,10 +17,10 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 prettyleka/stringtemplate4 is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/995/K85ZWV2F.png' alt='Java'/> [Java](https://www.java.com) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/2020/874086.png' alt='JUnit'/> [JUnit](http://junit.org/) – Testing Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/2624/no-img-open-source.png' alt='Smalltalk'/> [Smalltalk](http://en.wikipedia.org/wiki/Smalltalk) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/2020/874086.png' alt='JUnit'/> [JUnit](http://junit.org/) – Testing Frameworks
 - <img width='25' height='25' src='https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png' alt='Travis CI'/> [Travis CI](http://travis-ci.com/) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
@@ -32,7 +32,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [prettyleka/stringtemplate4](https://github.com/prettyleka/stringtemplate4)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|6<br/>Tools used|01/05/24 <br/>Report generated|
+|6<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
